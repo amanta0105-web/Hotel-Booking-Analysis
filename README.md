@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing hotel booking data to identify booking patterns, understand customer behavior, and investigate the factors influencing reservation cancellations.
+This project focuses on analyzing hotel booking data to identify booking patterns, understand customer behavior and investigate the factors influencing reservation cancellations.
 
-Using Python, I performed data cleaning, exploratory data analysis (EDA), and data visualization to extract meaningful insights and provide business recommendations that could help hotels reduce cancellation rates and improve revenue.
+Using Python, I performed data cleaning, exploratory data analysis (EDA) and data visualization to extract meaningful insights and provide business recommendations that could help hotels reduce cancellation rates and improve revenue.
 
 ## 🎯 Project Objectives
 
@@ -50,7 +50,7 @@ The original dataset contains 119,390 records and 36 columns.
 ### 1. Data Cleaning & Preparation
 
 - Imported the dataset using Pandas.
-- Removed personal information columns, including names, emails, phone numbers, and credit card details.
+- Removed personal information columns, including names, emails, phone numbers and credit card details.
 - Converted reservation status dates into datetime format.
 - Identified and handled missing values.
 - Removed columns with a significant number of missing values, such as agent and company.
@@ -104,7 +104,7 @@ The analysis suggests a positive relationship between accommodation prices (ADR)
 
 **5. Countries with the Highest Cancellations**
 
-Portugal recorded the highest number of cancelled reservations, followed by the United Kingdom, Spain, and France.
+Portugal recorded the highest number of cancelled reservations, followed by the United Kingdom, Spain and France.
 
 **6. Market Segment Analysis**
 
@@ -120,17 +120,17 @@ Based on the findings, the following recommendations could help hotels improve t
 - **Seasonal promotions:** Introduce discounts and targeted marketing campaigns during January to attract more visitors.
 - **Resort pricing:** Consider more attractive room prices during weekends and holidays.
 - **Improve hotel facilities:** Focus on improving facilities and services, particularly in Portugal, where the highest number of cancellations was observed.
-- **Optimize online marketing:** Review online booking platforms, hotel descriptions, and photographs to ensure that customer expectations match the actual experience.
-- **Personalized marketing:** Develop targeted campaigns based on customer location, booking behavior, and seasonal demand.
+- **Optimize online marketing:** Review online booking platforms, hotel descriptions and photographs to ensure that customer expectations match the actual experience.
+- **Personalized marketing:** Develop targeted campaigns based on customer location, booking behavior and seasonal demand.
 
 ## 📌 Conclusion
 
 This project provided valuable insights into hotel booking behavior and reservation cancellations.
 
-The analysis highlighted that hotel type, pricing, seasonality, country of origin, and market segment are important factors to consider when evaluating booking performance.
+The analysis highlighted that hotel type, pricing, seasonality, country of origin and market segment are important factors to consider when evaluating booking performance.
 
-By using data-driven insights, hotels can develop better pricing strategies, improve their marketing activities, enhance customer satisfaction, and ultimately reduce cancellations.
+By using data-driven insights, hotels can develop better pricing strategies, improve their marketing activities, enhance customer satisfaction and ultimately reduce cancellations.
 
 ---
 
-*This project was completed as part of my Data Analytics portfolio to demonstrate my skills in Python, data cleaning, exploratory data analysis, and data visualization.*
+*This project was completed as part of my Data Analytics portfolio to demonstrate my skills in Python, data cleaning, exploratory data analysis and data visualization.*
